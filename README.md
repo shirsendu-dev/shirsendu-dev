@@ -17,8 +17,8 @@ I'm a web designer with 7+ years of experience building WordPress websites for c
 - 🔭 Currently building full-stack projects using the **MERN stack**
 - 🌱 Currently learning **React, Next.js, TypeScript, and Node.js**
 - 💬 Ask me about **WordPress, web design, JavaScript, or React**
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: I spent 7+ years designing websites before learning what runs underneath them
+- 📫 Reach me at: **shirsendu.js.dev@gmail.com**
+- ⚡ Fun fact: I spent 7+ years designing websites before learning what runs underneath them!
 
 ---
 
@@ -34,7 +34,7 @@ I'm a web designer with 7+ years of experience building WordPress websites for c
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 **Database**
 
@@ -46,14 +46,6 @@ I'm a web designer with 7+ years of experience building WordPress websites for c
 
 ---
 
-## 🌐 Connect with Me
-
-<p>
-<a href="https://linkedin.com/in/your-username" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
