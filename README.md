@@ -1,7 +1,6 @@
-<div align="center">
+<img width="2172" height="724" alt="banner-1" src="https://github.com/user-attachments/assets/a30fd0e2-0b29-4141-bb91-2369fe39744b" />
 
-<!-- Banner Image - এখানে একটা banner ছবি বসাও, নিজে বানাতে পারো Canva দিয়ে, অথবা placeholder ব্যবহার করো নিচে -->
-<img src="https://via.placeholder.com/1200x300?text=Shirsendu+Biswas" alt="Banner" width="100%"/>
+<div align="center">
 
 # Hi, I'm Shirsendu Biswas 👋
 ### Web Designer & WordPress Expert | MERN Stack Learner
