@@ -9,11 +9,10 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
-I'm a Web designer and WordPress expert with 7+ years of experience building scalable websites for clients across the US. After years of designing the front end of websites, I decided to go deeper — I'm now learning full-stack development (JavaScript, React, Node.js, MongoDB) to build complete, complex applications on my own.
+I'm a Web designer and WordPress expert with 7+ years of experience building scalable websites for clients across the US. After years of designing the front end of websites, I decided to go deeper — I'm now learning full-stack development (JavaScript, React, Node.js, MongoDB) to build complete, complex and modern web applications on my own.
 
-- 🔭 Currently building full-stack projects using the **MERN stack**
 - 🌱 Currently learning **React, Next.js, TypeScript, and Node.js**
 - 💬 Ask me about **WordPress, web design, JavaScript, or React**
 - 📫 Reach me at: **shirsendu.js.dev@gmail.com**
