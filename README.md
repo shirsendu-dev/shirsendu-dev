@@ -11,11 +11,14 @@
 
 ## 💻 About Me
 
-I'm a Web Designer and WordPress Expert with 7+ years of experience building responsive, scalable, and client-focused websites. I also have 5+ years of remote experience working with a US-based digital marketing agency, where I worked on WordPress websites, redesigns, landing pages, performance improvements, and client website updates.
+I'm a Web Designer and WordPress Expert with 7+ years of experience building responsive, client-focused websites. I also have 5+ years of remote experience working with a US-based digital marketing agency, where I worked on WordPress websites, landing pages, redesigns, performance improvements, and ongoing website updates.
 
-After years of working mainly on the frontend and WordPress side of websites, I decided to go deeper into programming. I'm currently learning full-stack MERN development — including JavaScript, React, Node.js, Express.js, and MongoDB — so I can build complete, modern, and more complex web applications on my own.
+After years of working with websites from the design and WordPress side, I’m now going deeper into programming. I’m currently learning full-stack MERN development, including JavaScript, TypeScript, React, Node.js, Express.js, and MongoDB.
 
-- 💬 Ask me about **WordPress, web design, JavaScript, or React**
+Right now, I’m focused on improving my JavaScript problem-solving skills, building strong React fundamentals, and creating practical projects that connect my past web design experience with modern full-stack development.
+
+- 🌱 Currently learning **JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and Next.js**
+- 💬 Ask me about **WordPress, Wix, Webflow, SEO, frontend layouts, JavaScript basics, and my MERN learning journey**
 - 📫 Reach me at: **shirsendu.js.dev@gmail.com**
 
 ---
