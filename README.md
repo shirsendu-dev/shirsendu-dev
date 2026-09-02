@@ -49,10 +49,13 @@ I'm a Web designer and WordPress expert with 7+ years of experience building sca
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shirsendu-dev&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirsendu-dev&layout=compact&theme=default) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shirsendu-dev" width="48%"/>
 
-</div>
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=shirsendu-dev&style=flat-square)
