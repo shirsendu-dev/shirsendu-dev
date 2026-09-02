@@ -13,7 +13,7 @@
 
 I'm a Web designer and WordPress expert with 7+ years of experience building scalable websites for clients across the US. After years of designing the front end of websites, I decided to go deeper — I'm now learning full-stack development (JavaScript, React, Node.js, MongoDB) to build complete, complex and modern web applications on my own.
 
-- 🌱 Currently learning **React, Next.js, TypeScript, and Node.js**
+- 🌱 Currently learning **React, Next.js, TypeScript, Node.js and MongoDB**
 - 💬 Ask me about **WordPress, web design, JavaScript, or React**
 - 📫 Reach me at: **shirsendu.js.dev@gmail.com**
 - ⚡ Fun fact: I spent 7+ years designing websites before learning what runs underneath them!
