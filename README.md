@@ -10,15 +10,17 @@
 
 ## 💻 About Me
 
-I'm a Web Designer and WordPress Expert with 7+ years of experience building responsive, client-focused websites. I also have 5+ years of remote experience working with a US-based digital marketing agency, where I worked on WordPress websites, landing pages, redesigns, performance improvements, and ongoing website updates.
+I'm a Full Stack MERN Developer with a strong foundation in JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB — building full-stack applications  from UI to database.
 
-After years of working with websites from the design and WordPress side, I'm now going deeper into programming. I'm currently learning full-stack MERN development, including JavaScript, TypeScript, React, Node.js, Express.js, and MongoDB.
+Before that, I spent 7+ years as a Web Designer and WordPress Expert, including 5+ years of remote experience with a US-based digital marketing agency, where I built responsive, client-focused websites, landing pages, redesigns, and performance improvements across 300+ projects.
 
-Right now, I'm focused on improving my JavaScript problem-solving skills, building strong React fundamentals, and creating practical projects that connect my past web design experience with modern full-stack development.
+That background shapes how I build today — I bring real business context and client-facing experience into every application I develop, not just technical execution.
 
-- 🌱 Currently learning **JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and Next.js**
-- 💬 Ask me about **WordPress, Wix, Webflow, SEO, frontend layouts, JavaScript basics, and my MERN learning journey**
-- 📫 Reach me at: **shirsendu.js.dev@gmail.com**
+I'm currently focused on strengthening React/Next.js fundamentals, backend architecture, and shipping practical full-stack projects that connect my design background with modern development.
+
+🚀 Building with: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB
+💬 Ask me about: Full-stack architecture, React/Next.js, WordPress, SEO, and my transition from design to development
+📫 Reach me at: shirsendu.js.dev@gmail.com
 
 ---
 
