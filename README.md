@@ -18,9 +18,9 @@ That background shapes how I build today — I bring real business context and c
 
 I'm currently focused on strengthening React/Next.js fundamentals, backend architecture, and shipping practical full-stack projects that connect my design background with modern development.
 
-🚀 Building with: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB
-💬 Ask me about: Full-stack architecture, React/Next.js, WordPress, Wix, SEO, and my transition from design to development
-📫 Reach me at: shirsendu.js.dev@gmail.com
+ 🚀 Building with: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB <br>
+ 💬 Ask me about: Full-stack architecture, React/Next.js, WordPress, Wix, SEO, and my transition from design to development<br>
+ 📫 Reach me at: shirsendu.js.dev@gmail.com
 
 ---
 
